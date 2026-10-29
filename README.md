@@ -1,10 +1,9 @@
 # FestPass: campus event registration + Jenkins
 
-> **Lab Submission Status: COMPLETE (100/100 Rubric)**  
-> - **Student Alias:** `progyan`  
-> - **Class Code:** `001` | **Challenge Code:** `00197`  
-> - **Full Submission Report:** [SUBMISSION_REPORT.md](SUBMISSION_REPORT.md)  
-> - **Evidence Manifest:** [evidence/](evidence/) (Build 1 Red, Build 2 Red, Build 3 Green with final JAR)  
+> **Lab Submission Notes**  
+> - **Student Alias:** `progyan` | **Class Code:** `001` | **Challenge Code:** `00197`  
+> - **Evidence & Build Report:** [SUBMISSION_REPORT.md](SUBMISSION_REPORT.md)  
+> - **Archived Evidence:** [evidence/](evidence/)
 
 
 This is a deliberately failing **diagnostic starter**, not a finished submission. It manages

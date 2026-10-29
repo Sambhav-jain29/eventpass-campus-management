@@ -159,10 +159,10 @@ Events: 1 | Booked: 1 | Available: 0
 
 ## 6. Submission Evidence Manifest
 
-All evidence CSVs and artifacts are preserved in `submission_evidence/`:
-- `submission_evidence/build-1/submission-evidence.csv` (Bootstrap RED run, Build 1)
-- `submission_evidence/build-2/submission-evidence.csv` (Automatic RED run by SCM trigger, Build 2)
-- `submission_evidence/build-3/submission-evidence.csv` (Automatic GREEN run by SCM trigger, Build 3)
-- `submission_evidence/build-3/festpass.jar` (Final runnable binary, SHA-256: `6850e05f154c01b3c31b100fc3a912506d4d51f60fa6f4719828ff63e4930358`)
-- `submission_evidence/build-3/build-info.txt`
-- `submission_evidence/build-3/smoke-test.txt`
+All evidence CSVs and artifacts are preserved in [`evidence/`](evidence/):
+- [`evidence/build-1/submission-evidence.csv`](evidence/build-1/submission-evidence.csv) (Bootstrap RED run, Build 1)
+- [`evidence/build-2/submission-evidence.csv`](evidence/build-2/submission-evidence.csv) (Automatic RED run by SCM trigger, Build 2)
+- [`evidence/build-3/submission-evidence.csv`](evidence/build-3/submission-evidence.csv) (Automatic GREEN run by SCM trigger, Build 3)
+- [`evidence/build-3/festpass.jar`](evidence/build-3/festpass.jar) (Final runnable binary, SHA-256: `6850e05f154c01b3c31b100fc3a912506d4d51f60fa6f4719828ff63e4930358`)
+- [`evidence/build-3/build-info.txt`](evidence/build-3/build-info.txt)
+- [`evidence/build-3/smoke-test.txt`](evidence/build-3/smoke-test.txt)

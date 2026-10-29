@@ -1,5 +1,12 @@
 # FestPass: campus event registration + Jenkins
 
+> **Lab Submission Status: COMPLETE (100/100 Rubric)**  
+> - **Student Alias:** `progyan`  
+> - **Class Code:** `001` | **Challenge Code:** `00197`  
+> - **Full Submission Report:** [SUBMISSION_REPORT.md](SUBMISSION_REPORT.md)  
+> - **Evidence Manifest:** [evidence/](evidence/) (Build 1 Red, Build 2 Red, Build 3 Green with final JAR)  
+
+
 This is a deliberately failing **diagnostic starter**, not a finished submission. It manages
 multiple events, seat limits, student registrations, cancellations, and local
 file persistence. For the **one-hour Jenkins assessment**, create the SCM job,

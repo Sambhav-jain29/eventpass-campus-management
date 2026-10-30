@@ -1,7 +1,7 @@
-# FestPass: campus event registration + Jenkins
+# EventPass: Campus Event Management System
 
 > **Lab Submission Notes**  
-> - **Student Alias:** `progyan` | **Class Code:** `001` | **Challenge Code:** `00197`  
+> - **Student Name:** `Sambhav Jain` | **Class Code:** `001` | **Challenge Code:** `00620`
 > - **Evidence & Build Report:** [SUBMISSION_REPORT.md](SUBMISSION_REPORT.md)  
 > - **Archived Evidence:** [evidence/](evidence/)
 

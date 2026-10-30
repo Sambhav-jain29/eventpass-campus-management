@@ -1,8 +1,14 @@
-# FestPass CI Lab - Submission Evidence
+# EventPass – CI/CD Assignment Report
 
-**Student Alias:** progyan  
+**Submitting Student:** Sambhav Jain  
 **Class Code:** 001  
-**Challenge Code:** 00197  
+**Challenge Code:** 00620  
+
+**Project:** EventPass – Campus Event Management System
+
+**Original Project Attribution:** Adapted from the FestPass CI project by its original author, Progyan.
+
+**Evidence Note:** The historical Jenkins build records below are retained from the original project and are not represented as builds performed by the submitting student.
 
 ---
 

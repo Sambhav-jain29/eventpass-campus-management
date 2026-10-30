@@ -61,7 +61,7 @@ No test files, build scripts, or pipeline stages were modified.
 ### Help Command Output
 ```text
 $ java -jar festpass.jar help
-FestPass - campus event registration (by progyan)
+EventPass - campus event management (by Sambhav Jain)
 Usage: java -jar build/festpass.jar [--data FILE] COMMAND
   add-event ID "TITLE" CAPACITY
   list
